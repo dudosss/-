@@ -10,21 +10,15 @@ body {
     text-align: center;
     font-weight: 700;
     font-size: 50px;
-    outline-style: solid;
-    outline-color: red;
 }
 
 .line {
-    outline-style: solid;
-    outline-color: red;
     margin: 10px auto 20px;
     display: block;
 }
 
 .bodyy {
     display: flex;
-    outline-style: solid;
-    outline-color: red;
     height: 600px;
     margin: 120px;
     margin-top: 10px;
@@ -36,8 +30,6 @@ body {
 
 
 .table-1 {
-    outline-style: solid;
-    outline-color: red;
     width: 300px;
     margin-top: 70px;
     margin-bottom: 70px;
@@ -45,8 +37,6 @@ body {
 }
 
 .table-2 {
-    outline-style: solid;
-    outline-color: red;
     width: 300px;
     margin-top: 70px;
     margin-bottom: 70px;
@@ -54,8 +44,6 @@ body {
 }
 
 .table-3 {
-    outline-style: solid;
-    outline-color: red;
     width: 300px;
     margin-top: 70px;
     margin-bottom: 70px;
@@ -63,8 +51,6 @@ body {
 }
 
 .table-text-1 {
-    outline-style: solid;
-    outline-color: red;
     height: 350px;
     margin-top: 60px;
     margin-bottom: 70px;
@@ -73,8 +59,6 @@ body {
 }
 
 .table-text-2 {
-    outline-style: solid;
-    outline-color: red;
     height: 350px;
     margin-top: 60px;
     margin-bottom: 70px;
@@ -83,8 +67,6 @@ body {
 }
 
 .table-text-3 {
-    outline-style: solid;
-    outline-color: red;
     height: 350px;
     margin-top: 60px;
     margin-bottom: 70px;
@@ -105,6 +87,4 @@ body {
 .ne-optimiz {
     text-align: center;
     font-size: 30px;
-    outline-style: solid;
-    outline-color: red;
 }
